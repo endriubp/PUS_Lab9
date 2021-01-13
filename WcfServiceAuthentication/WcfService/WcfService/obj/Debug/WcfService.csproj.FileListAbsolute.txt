@@ -1,0 +1,7 @@
+C:\Users\lukas\OneDrive\Pulpit\WcfServiceAuthentication\WcfService\WcfService\bin\WcfService.dll.config
+C:\Users\lukas\OneDrive\Pulpit\WcfServiceAuthentication\WcfService\WcfService\bin\WcfService.dll
+C:\Users\lukas\OneDrive\Pulpit\WcfServiceAuthentication\WcfService\WcfService\bin\WcfService.pdb
+C:\Users\lukas\OneDrive\Pulpit\WcfServiceAuthentication\WcfService\WcfService\obj\Debug\WcfService.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\WcfServiceAuthentication\WcfService\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\WcfServiceAuthentication\WcfService\WcfService\obj\Debug\WcfService.dll
+C:\Users\lukas\OneDrive\Pulpit\WcfServiceAuthentication\WcfService\WcfService\obj\Debug\WcfService.pdb
